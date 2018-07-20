@@ -1,5 +1,4 @@
 ## MCLPMDA
-====
 A novel method for miRNA-disease association prediction based on matrix completion and label propagation
 
 **1.Method Description:**

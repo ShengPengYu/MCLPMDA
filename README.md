@@ -1,21 +1,21 @@
 ## MCLPMDA
 A novel method for miRNA-disease association prediction based on matrix completion and label propagation
 
-**1.Method Description:**
-We propose a novel method for miRNA-disease association prediction based on matrix completion and label propagation. Specifically, our method first reconstructs a new miRNA/disease similarity matrix by matrix completion algorithm based on known experimentally verified miRNA-disease associations and then utilizes the label propagation algorithm to reliably predict disease-related miRNAs. 
+**1.Method Description:**\<br> 
+We propose a novel method for miRNA-disease association prediction based on matrix completion and label propagation. Specifically, our\<br>  method first reconstructs a new miRNA/disease similarity matrix by matrix completion algorithm based on known experimentally\<br>  verified miRNA-disease associations and then utilizes the label propagation algorithm to reliably predict disease-related miRNAs. \<br> 
+\<br> 
+**2.Method Requirements:**\<br> 
+(1). The project was developed based on a matrix library named ND4j(https://nd4j.org/). \<br> 
+(2). In order to introduce the project documents more clearly, I put all the source code on the front page.\<br> 
+(3). As GitHub has upload capacity limit, I did not upload the third party jar package, only uploaded the core code of the project. It \<br>        can be downloaded directly  from the official web(https://nd4j.org/)\<br> 
 
-**2.Method Requirements:**
-(1). The project was developed based on a matrix library named ND4j(https://nd4j.org/). 
-(2). In order to introduce the project documents more clearly, I put all the source code on the front page.
-(3). As GitHub has upload capacity limit, I did not upload the third party jar package, only uploaded the core code of the project. It        can be downloaded directly  from the official web(https://nd4j.org/)
+**3. File list:**\<br> 
+3.1. Datas.java----------------It is a class for storing data sets needed for experiments.\<br> 
+3.2. Job.java------------------The prediction work is done in this class.\<br> 
+3.3. RSM.java------------------Using Global Linear neighborhoods to reconstruct the similarity network.\<br> 
+3.4. Parameters.java-----------recorded the super parameters used in this project\<br> 
 
-**3. File list:**
-3.1. Datas.java----------------It is a class for storing data sets needed for experiments.
-3.2. Job.java------------------The prediction work is done in this class.
-3.3. RSM.java------------------Using Global Linear neighborhoods to reconstruct the similarity network.
-3.4. Parameters.java-----------recorded the super parameters used in this project
-
-**4. Folder list:**
+**4. Folder list:**\<br> 
 4.1. dataset-------------------The data set used in the project is placed in this folder.
   4.1.1. dss.mat---------------Disease similarity network,It is a Matlab format data 
   4.1.2. dssname.txt-----------Recorded the all diseases name.

@@ -35,6 +35,5 @@ We propose a novel method for miRNA-disease association prediction based on matr
 To run our method, simply open the "job.java" script in java programming environment or other java IDE tools (e.g. Eclipse) and press<br> 
 "Run" button. Another option is to run our script using the command line format by two steps: (1)javac Job.java (2) java Job <br>
 
-<br>
 **6. Contact:** <br>
 For any questions regarding our work, please feel free to contact us: sdnuysp@163.com<br>

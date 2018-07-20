@@ -10,7 +10,7 @@ We propose a novel method for miRNA-disease association prediction based on matr
 (3). As GitHub has upload capacity limit, I did not upload the third party jar package, only uploaded the core code of the project. It <br>        can be downloaded directly  from the official web(https://nd4j.org/)<br> 
 
 **3. Usage:**<br>
-To run our method, simply open the "job.java" script in java programming environment or other java IDE tools (e.g. Eclipse) and press<br> 
+To run our method, simply open the "Job.java" script in java programming environment or other java IDE tools (e.g. Eclipse) and press<br> 
 "Run" button. Another option is to run our script using the command line format by two steps: (1)javac Job.java (2) java Job <br>
 
 **4. Contact:** <br>

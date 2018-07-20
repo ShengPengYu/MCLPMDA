@@ -1,7 +1,7 @@
 ## MCLPMDA
 A novel method for miRNA-disease association prediction based on matrix completion and label propagation
 
-**1.Method Description:**\<br> 
+**1.Method Description:**<br> 
 We propose a novel method for miRNA-disease association prediction based on matrix completion and label propagation. Specifically, our\<br>  method first reconstructs a new miRNA/disease similarity matrix by matrix completion algorithm based on known experimentally\<br>  verified miRNA-disease associations and then utilizes the label propagation algorithm to reliably predict disease-related miRNAs. \<br> 
 \<br> 
 **2.Method Requirements:**\<br> 

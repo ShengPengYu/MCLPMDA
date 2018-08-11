@@ -17,7 +17,7 @@
   
   2.4. If you want to use MCLPMDA to get the predicting results, you just need to run 'E_PREDICT.m' ;
   
-  &#160; &#160; &#160; &#160;Then, The program will output files as follows (./Experiments/predict/predict_result.txt):
+  Then, The program will output files as follows (./Experiments/predict/predict_result.txt):
   
 |                                    | hsa-mir-125a | hsa-mir-196a | hsa-mir-499a | ...... |
 | ---------------------------------- | ------------ | ------------ | ------------ | ------ |

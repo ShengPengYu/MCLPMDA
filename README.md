@@ -19,13 +19,13 @@
   
   &#160; &#160; &#160; &#160;Then, The program will output files as follows (./Experiments/predict/predict_result.txt):
   
-&#160; &#160; &#160; &#160;|                                    | hsa-mir-125a | hsa-mir-196a | hsa-mir-499a | ...... |
-&#160; &#160; &#160; &#160;| ---------------------------------- | ------------ | ------------ | ------------ | ------ |
-&#160; &#160; &#160; &#160;| Abortion, Habitual                 | 9.522239e-01 | 9.528295e-01 | 9.520322e-01 | ...... |
-&#160; &#160; &#160; &#160;| Acquired Immunodeficiency Syndrome | 1.469990e-03 | 1.519555e-03 | 8.732708e-04 | ...... |
-&#160; &#160; &#160; &#160;| ACTH-Secreting Pituitary Adenoma   | 2.600308e-03 | 2.556880e-03 | 1.580478e-03 | ...... |
-&#160; &#160; &#160; &#160;| Acute Coronary Syndrome            | 1.787939e-03 | 2.401789e-03 | 1.984312e-03 | ...... |
-&#160; &#160; &#160; &#160;| ......                             | ......       | ......       | ......       | ...... |
+ &#160; &#160; &#160; &#160;|                                    | hsa-mir-125a | hsa-mir-196a | hsa-mir-499a | ...... |
+| ---------------------------------- | ------------ | ------------ | ------------ | ------ |
+| Abortion, Habitual                 | 9.522239e-01 | 9.528295e-01 | 9.520322e-01 | ...... |
+| Acquired Immunodeficiency Syndrome | 1.469990e-03 | 1.519555e-03 | 8.732708e-04 | ...... |
+| ACTH-Secreting Pituitary Adenoma   | 2.600308e-03 | 2.556880e-03 | 1.580478e-03 | ...... |
+| Acute Coronary Syndrome            | 1.787939e-03 | 2.401789e-03 | 1.984312e-03 | ...... |
+| ......                             | ......       | ......       | ......       | ...... |
 
 
   2.5 If you want to use global cross validation to verify the performance, you just need to run 'E_GCV.m' ;

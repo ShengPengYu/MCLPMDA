@@ -17,7 +17,7 @@
   
   2.4 If you want to use MCLPMDA to get the predicting results, you just need to run 'E_PREDICT.m' ;
   
-  Then, The program will output files as follows:
+  Then, The program will output files as follows(workspace/Experiments/predict/predict_result.txt):
   
   | hsa-mir-125a                       | hsa-mir-196a | hsa-mir-499a | hsa-mir-198  | ... |
 | ---------------------------------- | ------------ | ------------ | ------------ | --- |
@@ -27,7 +27,7 @@
 | Acute Coronary Syndrome            | 1.787939e-03 | 2.401789e-03 | 1.984312e-03 | ... |
 | ...                                | ...          | ...          | ...          | ... |
 
-The complete  results avalible at :[enter description here](https://github.com/ShengPengYu/MCLPMDA/blob/master/results/predict_result.txt)
+The complete  results avalible at :[predict_result.txt](https://github.com/ShengPengYu/MCLPMDA/blob/master/results/predict_result.txt)
 
   2.5 If you want to use global cross validation to verify the performance, you just need to run 'E_GCV.m' ;
   

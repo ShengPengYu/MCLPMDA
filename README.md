@@ -19,7 +19,7 @@
   
   &#160; &#160; &#160; &#160;Then, The program will output files as follows (./Experiments/predict/predict_result.txt):
   
- &#160; &#160; &#160; &#160;|                                    | hsa-mir-125a | hsa-mir-196a | hsa-mir-499a | ...... |
+|                                    | hsa-mir-125a | hsa-mir-196a | hsa-mir-499a | ...... |
 | ---------------------------------- | ------------ | ------------ | ------------ | ------ |
 | Abortion, Habitual                 | 9.522239e-01 | 9.528295e-01 | 9.520322e-01 | ...... |
 | Acquired Immunodeficiency Syndrome | 1.469990e-03 | 1.519555e-03 | 8.732708e-04 | ...... |

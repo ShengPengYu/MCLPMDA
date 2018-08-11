@@ -3,9 +3,9 @@
 A novel method for miRNA-disease association prediction based on matrix completion and label propagation<br> 
 
 **1.Method Description:**<br> 
-We propose a novel method for miRNA-disease association prediction based on matrix completion and label propagation. Specifically, our<br> 
-method first reconstructs a new miRNA/disease similarity matrix by matrix completion algorithm based on known experimentally verified <br> 
-miRNA-disease associations and then utilizes the label propagation algorithm to reliably predict disease-related miRNAs. <br> 
+We propose a novel method for miRNA-disease association prediction based on matrix completion and label propagation. Specifically, our
+method first reconstructs a new miRNA/disease similarity matrix by matrix completion algorithm based on known experimentally verified  
+miRNA-disease associations and then utilizes the label propagation algorithm to reliably predict disease-related miRNAs.  
 
 **2. Usage:**<br> 
   2.1 You should completely download the whole project to your personal computer.<br> 

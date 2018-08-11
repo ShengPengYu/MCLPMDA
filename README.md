@@ -30,8 +30,6 @@
 
   2.5 If you want to use global cross validation to verify the performance of MCLPMDA, you just need to run 'E_GCV.m' ;
   
-  ![Alt text](https://github.com/ShengPengYu/MCLPMDA/blob/master/pics/MCLPMDA_global_roc.pdf)
-  
   2.6 If you want to use local cross validation to verify the performance of MCLPMDA, you just need to run 'E_LCV.m'; 
   
   2.7 If you want to use fivefold cross validation to verify the performance MCLPMDA, you just need to run 'E_FCV.m'; 

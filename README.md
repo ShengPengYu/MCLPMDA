@@ -11,7 +11,7 @@
 
   2.1.  You should completely download the whole project to your personal computer.
   
-  2.2. You should ensure your personal computer have installed MATLAB environment.
+  2.2. You should ensure your personal computer has installed MATLAB environment.
   
   2.3. You should import MCLPMDA project to MATLAB workspace.
   
@@ -32,7 +32,7 @@
   
   2.6 If you want to use local cross validation to verify the performance of MCLPMDA, you just need to run 'E_LCV.m'; 
   
-  2.7 If you want to use fivefold cross validation to verify the performance MCLPMDA, you just need to run 'E_FCV.m'; 
+  2.7 If you want to use fivefold cross validation to verify the performance of MCLPMDA, you just need to run 'E_FCV.m'; 
   
 
 **3. Contact:**

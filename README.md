@@ -9,15 +9,15 @@
 
 **2. Usage:**
 
-  2.1.  You should completely download the whole project to your personal computer.
+2.1.  You should completely download the whole project to your personal computer.
   
-  2.2. You should ensure your personal computer has installed MATLAB environment.
+2.2. You should ensure your personal computer has installed MATLAB environment.
   
-  2.3. You should import MCLPMDA project to MATLAB workspace.
+2.3. You should import MCLPMDA project to MATLAB workspace.
   
-  2.4. If you want to use MCLPMDA to get the predicting results, you just need to run 'E_PREDICT.m' ;
+2.4. If you want to use MCLPMDA to get the predicting results, you just need to run 'E_PREDICT.m' ;
   
-  Then, The program will output files as follows (./Experiments/predict/predict_result.txt):
+Then, The program will output files as follows (./Experiments/predict/predict_result.txt):
   
 |                                    | hsa-mir-125a | hsa-mir-196a | hsa-mir-499a | ...... |
 | ---------------------------------- | ------------ | ------------ | ------------ | ------ |
@@ -28,11 +28,9 @@
 | ......                             | ......       | ......       | ......       | ...... |
 
 
-  2.5 If you want to use global cross validation to verify the performance of MCLPMDA, you just need to run 'E_GCV.m' ;
-  
-  2.6 If you want to use local cross validation to verify the performance of MCLPMDA, you just need to run 'E_LCV.m'; 
-  
-  2.7 If you want to use fivefold cross validation to verify the performance of MCLPMDA, you just need to run 'E_FCV.m'; 
+2.5 If you want to use global cross validation to verify the performance of MCLPMDA, you just need to run 'E_GCV.m' ;
+    
+2.6 If you want to use fivefold cross validation to verify the performance of MCLPMDA, you just need to run 'E_FCV.m'; 
   
 
 **3. Contact:**

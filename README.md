@@ -32,7 +32,7 @@ Then, The program will output files as follows (./Experiments/predict/predict_re
     
 2.6 If you want to use five-fold cross validation to verify the performance of MCLPMDA, you just need to run 'E_FCV.m';
 
-2.7 If you want to use LODOCV cross validation to verify the performance of MCLPMDA, you just need to run 'E_LODOCV.m';
+2.7 If you want to use LODOCV framework to verify the performance of MCLPMDA, you just need to run 'E_LODOCV.m';
 
 ......
 

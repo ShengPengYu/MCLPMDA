@@ -30,7 +30,7 @@ Then, The program will output files as follows (./Experiments/predict/predict_re
 
 2.5 If you want to use global LOOCV to verify the performance of MCLPMDA, you just need to run 'E_GCV.m' ;
     
-2.6 If you want to use fivefold cross validation to verify the performance of MCLPMDA, you just need to run 'E_FCV.m';
+2.6 If you want to use five-fold cross validation to verify the performance of MCLPMDA, you just need to run 'E_FCV.m';
 
 ......
 
